@@ -5,26 +5,26 @@ var React = require('react'),
 
 var cardsData = [
     {
-        title: 'A wonderful day',
-        text: '—— - ——— - - - ——— ———— - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— -',
+        title: 'blabla1',
+        text: 'hello1',
         image: 'portrait-1.jpg',
         id: '1'
     },
     {
-        title: 'My amazing journey',
-        text: ' - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ——— - - - ——— ———— ',
+        title: 'blabla2',
+        text: 'hello2',
         image: 'portrait-2.jpg',
         id: '2'
     },
     {
-        title: 'Three recipes without cocoa',
-        text: ' - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ——— - - - ———',
+        title: 'blabla3',
+        text: 'text3',
         image: 'portrait-3.jpg',
         id: '3'
     },
     {
-        title: 'Generic clickbait title',
-        text: ' —— ———— - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ———— —— - ——— - - - ——— ———— - — ——— —— - ————— - - ———— - ——— ',
+        title: 'blabla4',
+        text: 'text4',
         image: 'portrait-4.jpg',
         id: '4'
     }
